@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreezeBombServer", "FreezeBombServer\FreezeBombServer.vcxproj", "{DCC69BBE-80FF-4616-9581-40737EAFA73F}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FreezeBomb_Server_Setup", "FreezeBomb_Server_Setup\FreezeBomb_Server_Setup.vdproj", "{B497A589-7CA7-485E-BAB1-8FA2166F0D1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,11 @@ Global
 		{DCC69BBE-80FF-4616-9581-40737EAFA73F}.Release|x64.Build.0 = Release|x64
 		{DCC69BBE-80FF-4616-9581-40737EAFA73F}.Release|x86.ActiveCfg = Release|Win32
 		{DCC69BBE-80FF-4616-9581-40737EAFA73F}.Release|x86.Build.0 = Release|Win32
+		{B497A589-7CA7-485E-BAB1-8FA2166F0D1F}.Debug|x64.ActiveCfg = Debug
+		{B497A589-7CA7-485E-BAB1-8FA2166F0D1F}.Debug|x86.ActiveCfg = Debug
+		{B497A589-7CA7-485E-BAB1-8FA2166F0D1F}.Release|x64.ActiveCfg = Release
+		{B497A589-7CA7-485E-BAB1-8FA2166F0D1F}.Release|x64.Build.0 = Release
+		{B497A589-7CA7-485E-BAB1-8FA2166F0D1F}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
